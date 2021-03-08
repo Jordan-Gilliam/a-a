@@ -1,0 +1,13 @@
+{
+  "author": "changeme - author",
+  "description": "changeme - description",
+  "email": "changeme-email@yoursite.com",
+  "github": "https://github.com/Jordan-Gilliam/nextjs-template",
+  "logo": "/static/images/logo.svg",
+  "language": "en-us",
+  "logoTitle": "changeme - logoTitle",
+  "siteRepo": "https://github.com/Jordan-Gilliam/nextjs-template",
+  "siteUrl": "https://tailwind-nextjs-starter-blog.vercel.app",
+  "socialBanner": "/static/images/twitter-card.png",
+  "title": "changeme - title"
+}

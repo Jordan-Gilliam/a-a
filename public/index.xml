@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Escherion Institute</title>
+      <link>https://tailwind-nextjs-starter-blog.vercel.app/repository</link>
+      <description>In the Pursuit of Unifying all Scientific Knowledge and Spiritual Wisdom</description>
+      <language>en-us</language>
+      <managingEditor>address@yoursite.com (Unkown)</managingEditor>
+      <webMaster>address@yoursite.com (Unkown)</webMaster>
+      <lastBuildDate>Sat, 20 Feb 2021 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/index.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/posts/the-echerdex</guid>
+    <title>The Echerdex</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/posts/the-echerdex</link>
+    <description>Energy , Consciousness, Hermeticism, Evolution, Religion, Dimensions, Eschatology and the Psyche (Ψυχη).</description>
+    <pubDate>Sat, 20 Feb 2021 00:00:00 GMT</pubDate>
+    <author>address@yoursite.com (Unkown)</author>
+    <category>core</category><category>unknown</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/posts/arcanum</guid>
+    <title>Arcanum</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/posts/arcanum</link>
+    <description>I am what that is. That is what I am. For all above is like that, which is below.</description>
+    <pubDate>Fri, 19 Feb 2021 00:00:00 GMT</pubDate>
+    <author>address@yoursite.com (Unkown)</author>
+    <category>core</category><category>unknown</category>
+  </item>
+
+    </channel>
+  </rss>
